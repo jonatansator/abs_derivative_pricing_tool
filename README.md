@@ -25,3 +25,7 @@
 ## Timeframe
 - **Input**: Synthetic ABS portfolio data over a 5-year horizon (60 time steps).
 - **Output**: Fair values and sensitivities (e.g., delta) for the derivative across the time horizon.
+
+## Screenshots
+![output](output.png)
+
